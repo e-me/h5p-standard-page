@@ -1,11 +1,6 @@
 {
   "semantics":[
     {
-      "label":"Τίτλος",
-      "default":"Βασική σελίδα",
-      "description":"Τίτλος σελίδας."
-    },
-    {
       "label":"Στοιχεία",
       "entity":"στοιχειου",
       "field":{
